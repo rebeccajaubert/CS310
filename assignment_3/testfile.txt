@@ -1,0 +1,16 @@
+help
+set x 10
+print x
+set y 20
+print y
+set z mary
+print z
+set bobbie Montreal
+print bobbie
+set z bob
+set y 30
+print z
+
+
+
+quit

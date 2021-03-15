@@ -1,0 +1,13 @@
+set var itWorks
+print var
+set var itReallyWorks
+print var
+wrongcmd
+print var
+
+set testLine itSkippedOK
+
+
+print testLine
+
+quit

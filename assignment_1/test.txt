@@ -1,0 +1,17 @@
+help
+set var itWorks
+print var
+set var itReallyWorks
+print var
+wrongcmd
+print WOW
+
+
+
+set test 10
+print test 
+set test 52
+
+
+
+quit

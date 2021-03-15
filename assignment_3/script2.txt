@@ -1,0 +1,7 @@
+set y Y
+print y
+set var hello
+print var
+set y Y2OK
+print y
+quit

@@ -1,0 +1,3 @@
+set x X
+print x
+quit
